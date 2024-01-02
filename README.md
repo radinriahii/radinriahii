@@ -1,4 +1,3 @@
 - 🔭 I’m currently working on my lesson
 - 🌱 I’m currently learning python
 - 💬 Ask me about mac computer
--->
